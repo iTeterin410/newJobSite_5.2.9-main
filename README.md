@@ -1,5 +1,5 @@
-node -v: 22.19.0
-npm -v: 10.9.3
+5.2.9 «Вложенные роуты и обработка ошибок»
 
-GitHub - pages: https://aleksey056.github.io/newJobSite_5.2.9/vacancies/moscow?skills=TypeScript%2CReact%2CRedux
+
+https://iTeterin410.github.io/newJobSite_5.2.9-main
 
